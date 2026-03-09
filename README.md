@@ -1,4 +1,4 @@
-# Bug Reports (Student Assignment)
+# Bug Reports
 
 This repository is used to collect **bug reports created by students**.
 
